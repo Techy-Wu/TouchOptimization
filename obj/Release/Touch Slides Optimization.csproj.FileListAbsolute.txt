@@ -1,0 +1,16 @@
+C:\Users\Jerry\source\repos\Touch Slides Optimization\bin\Release\Touch Slides Optimization.dll
+C:\Users\Jerry\source\repos\Touch Slides Optimization\bin\Release\Touch Slides Optimization.pdb
+C:\Users\Jerry\source\repos\Touch Slides Optimization\bin\Release\Touch Slides Optimization.dll.manifest
+C:\Users\Jerry\source\repos\Touch Slides Optimization\bin\Release\Touch Slides Optimization.vsto
+C:\Users\Jerry\source\repos\Touch Slides Optimization\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch Slides Optimization.csprojAssemblyReference.cache
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch_Slides_Optimization.Form1.resources
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch_Slides_Optimization.menu.resources
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch_Slides_Optimization.Properties.Resources.resources
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch_Slides_Optimization.Ribbon1.resources
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch_Slides_Optimization.Welcome.resources
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch Slides Optimization.csproj.GenerateResource.cache
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch Slides Optimization.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch Slides Optimization.csproj.CopyComplete
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch Slides Optimization.dll
+C:\Users\Jerry\source\repos\Touch Slides Optimization\obj\Release\Touch Slides Optimization.pdb
